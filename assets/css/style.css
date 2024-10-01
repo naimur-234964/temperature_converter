@@ -1,0 +1,7 @@
+#main {
+    background-color: #073b4c;
+
+    .main {
+        background: linear-gradient(rgba(17, 138, 178, .5), rgb(6, 214, 160), rgb(6, 214, 160), rgba(17, 138, 178, .5));
+    }
+}
